@@ -1,0 +1,36 @@
+Python
+↓
+Pandas + Data
+↓
+Preprocessing
+↓
+Machine Learning (SVM / RF)
+↓
+Deep Learning (ANN)
+↓
+IPS Cloud (PFE)
+
+
+
+🧠 Architecture du projet (Résumé)
+Attaquant (Kali Linux)
+        ↓
+Traffic Réseau
+        ↓
+IPS Intelligent (Python + ANN)
+        ↓
+Décision : Autoriser / Bloquer
+        ↓
+Dashboard (Cloud VM)
+
+
+
+Machine Learning
+→ Supervised Learning
+→ Algorithmes ML
+→ Deep Learning
+→ ANN
+→ Cybersécurité
+→ IDS / IPS
+→ Cloud
+→ PFE
